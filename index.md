@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Sinch
+
+Here is the link to my python projects:
+
+https://snitchstitch.github.io/pythoncharmer/
 
 You can use the [editor on GitHub](https://github.com/snitchstitch/snitchstitch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
